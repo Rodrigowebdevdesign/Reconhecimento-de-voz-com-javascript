@@ -9,7 +9,6 @@
 <img src="tela-cell.png">
 <br><br>
 
-## link do projeto hospedado logo abaixo:
-
+## DEPLOY :
 
 https://rodrigowebdevdesign.github.io/Reconhecimento-de-voz-com-javascript/
